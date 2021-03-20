@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @shamsulhusainansari
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Shamsul - aka [Knox]👋
 
-<!---
-shamsulhusainansari/shamsulhusainansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/husain_shamsul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=husain_shamsul)
+## I'm a Student and Android Developer!!
+
+- 🌱 I’m currently learning python & GCP 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to listen to music
+
+### Connect with me:
+
+<img align="left" alt="husain_shamsul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="shamsulhusainansari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="shamsulhusainansari | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
